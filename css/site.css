@@ -1,0 +1,50 @@
+img{
+  float: right;
+  width: 35%;
+  margin-right: 5%;
+  padding-top: 8%;
+}
+
+h2{
+  font: Georgia;
+  font-size: 200%;
+  margin-left: 3%;
+}
+
+h1{
+  margin-left: 10%;
+  font: Georgia;
+  font-size: 300%;
+}
+
+p{
+  font: Georgia;
+  font-size: 110%;
+  margin-left: 2%;
+}
+
+li{
+  font: Georgia;
+  font-size: 110%;
+  margin-left: 2%;
+}
+
+#wow{
+  margin-left: 10%;
+  margin-right: 50%;
+  border-style: double;
+  border-width: 10px;
+  border-color: #eae1fa;
+}
+
+#holymoly{
+  margin-left: 10%;
+  margin-right: 50%;
+  border-style: double;
+  border-width: 10px;
+  border-color: #eae1fa;
+}
+
+body{
+  background-color: #c5d6fc;
+}
