@@ -1,0 +1,74 @@
+body {
+  background-color: #f5aa87;
+}
+
+h1 {
+  color: #346333;
+  font-family: Impact;
+  font-size: 220%;
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+h2 {
+  color: #346333;
+  font-family: Impact;
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+
+
+p {
+  font-family: Arial;
+  color: #346333;
+  font-size: 100%;
+  margin-right: 7%;
+  margin-left: 7%;
+}
+
+
+img {
+  padding: 10px;
+  border-style: double;
+  border-image-width: 10px;
+  border-width: 10px;
+  border-color: groove;
+  width: 60%;
+  height: auto;
+  margin-top: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+  float: none;
+  align-items: center;
+}
+
+#info {
+  text-align: center;
+  width: auto;
+  border-style: double;
+  border-image-width: 10px;
+  border-width: 10px;
+  border-color: groove;
+  margin-top: 5%;
+  margin-right: 10%;
+  margin-left: 10%;
+  background-color: #f7dacd;
+  align-items: center;
+  align-self: center;
+
+
+}
+
+#output {
+  width: auto;
+  font-size: 200%;
+  margin-right: 10%;
+  margin-left: 10%;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+
+}
